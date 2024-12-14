@@ -7,7 +7,7 @@
        },
        {
           "name":"Chat-Based RAG for Legal Document Retrieval",
-          "url":"",
+          "url":"https://github.com/PolRF/LM",
           "desc":"Developed a retrieval-augmented generation (RAG) system as a side project for Aldara, enabling access to legal documentation through a chat-based interface."
        }
     ]
